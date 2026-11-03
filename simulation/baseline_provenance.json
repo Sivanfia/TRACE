@@ -1,0 +1,53 @@
+[
+  {
+    "setting": "01",
+    "folder": "01_TRACE_identifiable_mixture_contamination",
+    "original_result": "TRACE_settings134_same_source500_spikeslab_20261012/results_same_source_500_spikeslab/01_TRACE_identifiable_mixture_contamination",
+    "baseline_rows": 9600,
+    "methods": [
+      "ACVB",
+      "CONCERT",
+      "TRADER",
+      "Trans-Lasso"
+    ]
+  },
+  {
+    "setting": "02",
+    "folder": "02_TRACE_support_swap_contamination",
+    "original_result": "TRACE_four_settings_01_to_04_server/02_TRACE_support_swap_contamination/results_50rep_TRADER_paper_settings_I_III",
+    "baseline_rows": 4000,
+    "methods": [
+      "ACVB",
+      "CONCERT",
+      "TRADER",
+      "Trans-Lasso"
+    ],
+    "additional_CONCERT_III": "provenance/concert_design_III/performance_CONCERT_only.csv (relative to package root)",
+    "additional_CONCERT_III_rows": 500,
+    "paired_validation": "provenance/concert_design_III/paired_validation.csv"
+  },
+  {
+    "setting": "03",
+    "folder": "03_TRACE_mosaic_contamination",
+    "original_result": "TRACE_settings134_same_source500_spikeslab_20261012/results_same_source_500_spikeslab/03_TRACE_mosaic_contamination",
+    "baseline_rows": 9600,
+    "methods": [
+      "ACVB",
+      "CONCERT",
+      "TRADER",
+      "Trans-Lasso"
+    ]
+  },
+  {
+    "setting": "04",
+    "folder": "04_TRACE_complementary_sources_fixed_noise",
+    "original_result": "TRACE_setting4_source500_q0to06_sigma3_20261013/results_same_source_500_spikeslab/04_TRACE_complementary_sources_fixed_noise",
+    "baseline_rows": 4200,
+    "methods": [
+      "ACVB",
+      "CONCERT",
+      "TRADER",
+      "Trans-Lasso"
+    ]
+  }
+]
