@@ -4,7 +4,7 @@
 
 TRACE combines individual-level target data with fitted coefficients from multiple source studies. It estimates source weights and uses separate latent indicators for target variable selection and coordinate-specific information transfer. Computation uses an approximated collapsed variational algorithm with variational EM updates for the source weights.
 
-This repository contains the source code for the accompanying manuscript by Pengfei Chen, Yuehan Yang, Klinger Lu, and Chong You. It includes four simulation settings, a six-tissue GTEx application, plotting scripts, tests, and environment records. The statistical source files are identical to those in the complete reproducibility package, including the corrected zero-inclusion residual calculation.
+This repository contains the source code for the accompanying manuscript by Pengfei Chen, Yuehan Yang, Klinger Lu, and Chong You. It includes four simulation settings, a six-tissue GTEx application, plotting scripts, tests, and environment records. The fitting code is identical to that in the complete reproducibility package, including the corrected zero-inclusion residual calculation. Plotting sources are kept in `plotting/`, with their path references updated.
 
 ## Source code and complete materials
 
@@ -111,7 +111,7 @@ real_data/
   R/, vendor/, config/                         # TRACE rerun with retained competitors
   full_analysis/                               # complete five-method analysis
   provenance/, tests/
-manuscript/figures/                             # plotting source only
+plotting/                                      # plotting sources
 scripts/                                       # restoration, reconstruction, validation
 environment/                                   # original environment records
 provenance/                                    # source manifest and archive notes

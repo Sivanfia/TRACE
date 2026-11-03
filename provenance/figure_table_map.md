@@ -1,6 +1,6 @@
 # Manuscript figures and tables
 
-All figure paths below are relative to `manuscript/`. Rebuilt copies are written to `outputs/reproduced/`.
+The paths below record the complete Release manuscript snapshots and are relative to its `manuscript/` directory. In this source distribution, plotting scripts are in `plotting/`; `bash run_analysis.sh figures` writes rebuilt copies to `outputs/reproduced/`.
 
 ## draft_revised_crossrefs.tex
 

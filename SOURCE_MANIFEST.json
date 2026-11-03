@@ -12,5 +12,14 @@
   "includes_saved_results": false,
   "includes_compiled_binaries": false,
   "original_code_license": "not specified",
-  "verification": "VALIDATION.md"
+  "verification": "VALIDATION.md",
+  "plotting_source_directory": "plotting/",
+  "original_files_unchanged_bytes": 139,
+  "path_adaptations": [
+    "plotting/reproduce_all_figures.R",
+    "plotting/reproduce_real_data_figures.R",
+    "plotting/reproduce_setting4_figures.R",
+    "plotting/reproduce_simulation_figures.R",
+    "scripts/reproduce_results.R"
+  ]
 }
