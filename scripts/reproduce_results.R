@@ -17,7 +17,7 @@ if(out%in%c(root,file.path(root,'manuscript'),simroot,realroot))stop('Use a sepa
 strict<-identical(simroot,normalizePath(file.path(root,'simulation/published_results')))&&
  identical(realroot,normalizePath(file.path(root,'real_data/published_results/comparison')))
 for(d in c('data','figures','tables','checks'))dir.create(file.path(out,d),showWarnings=FALSE)
-plotfiles<-list.files(file.path(root,'manuscript/figures'),pattern='[.]R$',full.names=TRUE)
+plotfiles<-list.files(file.path(root,'plotting'),pattern='[.]R$',full.names=TRUE)
 stopifnot(all(file.copy(plotfiles,file.path(out,'figures'),overwrite=TRUE)))
 folders<-c('01_TRACE_identifiable_mixture_contamination','02_TRACE_support_swap_contamination',
  '03_TRACE_mosaic_contamination','04_TRACE_complementary_sources_fixed_noise')
@@ -88,7 +88,7 @@ if(strict) {
 write.csv(m,file.path(out,'data/real_data_metrics_per_rep.csv'),row.names=FALSE,na='')
 csv<-function(x,p)write.csv(x,p,row.names=FALSE,na='')
 source(file.path(root,'real_data/R/summarize.R'))
-source(file.path(root,'manuscript/figures/plot_real_data_figures.R'))
+source(file.path(root,'plotting/plot_real_data_figures.R'))
 realout<-file.path(out,'real_data');dir.create(file.path(realout,'tables'),recursive=TRUE,showWarnings=FALSE)
 csv(m,file.path(realout,'tables/metrics_per_rep.csv'))
 write_paper_outputs(realout,list(targets=names(.tissue_labels)))

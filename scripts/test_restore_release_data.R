@@ -14,9 +14,13 @@ test_restore <- function() {
     dir.create(file.path(d, 'provenance'))
   }
   writeLines('# original source', file.path(release, 'scripts/run.R'))
-  file.copy(file.path(release, 'scripts/run.R'), file.path(checkout, 'scripts/run.R'))
-  write.csv(data.frame(file='scripts/run.R',
-    md5=unname(tools::md5sum(file.path(release, 'scripts/run.R')))),
+  dir.create(file.path(checkout, 'plotting'))
+  file.copy(file.path(release, 'scripts/run.R'), file.path(checkout, 'plotting/plot.R'))
+  writeLines('# source-layout adapter', file.path(checkout, 'scripts/run.R'))
+  write.csv(data.frame(file=c('plotting/plot.R', 'scripts/run.R'),
+    release_file=rep('scripts/run.R', 2L),
+    md5=unname(tools::md5sum(file.path(checkout, c('plotting/plot.R', 'scripts/run.R')))),
+    release_md5=rep(unname(tools::md5sum(file.path(release, 'scripts/run.R'))), 2L)),
     file.path(checkout, 'provenance/release_source_md5.csv'), row.names=FALSE)
   file.copy(file.path(root, 'scripts/restore_release_data.R'),
     file.path(checkout, 'scripts/restore_release_data.R'))
@@ -44,7 +48,8 @@ test_restore <- function() {
   if(x$status != 0L) stop(paste(x$output, collapse='\n'))
   stopifnot(all(file.exists(file.path(checkout, paths))),
     !file.exists(file.path(checkout, 'manuscript/figures/plot.R')),
-    identical(readLines(file.path(checkout, 'scripts/run.R')), '# original source'))
+    identical(readLines(file.path(checkout, 'plotting/plot.R')), '# original source'),
+    identical(readLines(file.path(checkout, 'scripts/run.R')), '# source-layout adapter'))
   stopifnot(invoke()$status == 0L) # Repeating an identical restoration is safe.
   writeLines('existing local changes', file.path(checkout, paths[1L]))
   x <- invoke()

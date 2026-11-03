@@ -17,10 +17,12 @@ if (!file.exists(manifest) || !any(grepl(
 source_manifest <- read.csv(file.path(root, 'provenance/release_source_md5.csv'),
   stringsAsFactors=FALSE)
 for (base in c(root, release)) {
-  paths <- file.path(base, source_manifest$file)
+  archived <- identical(base, release)
+  paths <- file.path(base, if (archived) source_manifest$release_file else source_manifest$file)
   if (any(!file.exists(paths))) stop('Missing source files in: ', base)
   hashes <- unname(tools::md5sum(paths))
-  if (anyNA(hashes) || any(hashes != source_manifest$md5))
+  expected <- if (archived) source_manifest$release_md5 else source_manifest$md5
+  if (anyNA(hashes) || any(hashes != expected))
     stop('The source version does not match the archived experiment: ', base)
 }
 collect <- function(relative) {
@@ -40,7 +42,7 @@ payload <- c(
   file.path(release, 'real_data/published_results/comparison/tables/metrics_per_rep.csv'),
   collect('manuscript'))
 payload <- sort(unique(payload))
-# The manuscript directory contains plotting sources already supplied in main.
+# Archived plotting sources are supplied separately in plotting/ in main.
 payload <- payload[!grepl('[.](R|r|cpp|c|h|hpp|sh)$', payload)]
 if (any(!file.exists(payload))) stop('The Release is missing a required result table.')
 relative <- substring(payload, nchar(release) + 2L)
