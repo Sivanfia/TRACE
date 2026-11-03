@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/RuqianZhang/CONCERT",
+  "commit": "fea55703c39655a196d3aa5296d1851f0fd53547",
+  "commit_time": "2025-10-24T17:56:27+08:00",
+  "retrieved_at": "2026-09-16",
+  "vendored_path": "vendor/CONCERT_author_upstream/Linear",
+  "algorithm_file": "Linear/Concert.cpp",
+  "algorithm_sha256": "4dd140aa5c89ef2b65cbcaf3b067eda50bd155f8b02673ca240f0c2e458f3836",
+  "r_wrapper_sha256": "781c7c52538a790e86fca9ccbfd7f50289070f91929638ba9fe6a2a0990bb17f",
+  "author_gtex_script_sha256": "ab5414c1709df017f0a69dcbd36c2dd910b97c59707f6bdbb5ed9dfe71e1eb35",
+  "upstream_license_file_present": false,
+  "algorithm_edits": "none",
+  "local_adapter": "vendor/concert_bridge.R"
+}

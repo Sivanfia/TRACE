@@ -1,0 +1,394 @@
+[
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_adipose_subcutaneous.gct.gz",
+    "description": "Gene TPMs for Adipose - Subcutaneous.",
+    "fileSize": 57940492,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_adipose_subcutaneous.gct.gz",
+    "order": 1,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_adipose_visceral_omentum.gct.gz",
+    "description": "Gene TPMs for Adipose - Visceral (Omentum).",
+    "fileSize": 48089415,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_adipose_visceral_omentum.gct.gz",
+    "order": 2,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_adrenal_gland.gct.gz",
+    "description": "Gene TPMs for Adrenal Gland.",
+    "fileSize": 23137355,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_adrenal_gland.gct.gz",
+    "order": 3,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_artery_aorta.gct.gz",
+    "description": "Gene TPMs for Artery - Aorta.",
+    "fileSize": 37853770,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_artery_aorta.gct.gz",
+    "order": 4,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_artery_coronary.gct.gz",
+    "description": "Gene TPMs for Artery - Coronary.",
+    "fileSize": 22192850,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_artery_coronary.gct.gz",
+    "order": 5,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_artery_tibial.gct.gz",
+    "description": "Gene TPMs for Artery - Tibial.",
+    "fileSize": 55555731,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_artery_tibial.gct.gz",
+    "order": 6,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_amygdala.gct.gz",
+    "description": "Gene TPMs for Brain - Amygdala.",
+    "fileSize": 14187198,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_amygdala.gct.gz",
+    "order": 8,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz",
+    "description": "Gene TPMs for Brain - Anterior cingulate cortex (BA24).",
+    "fileSize": 16527324,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz",
+    "order": 9,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz",
+    "description": "Gene TPMs for Brain - Caudate (basal ganglia).",
+    "fileSize": 22819513,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz",
+    "order": 10,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz",
+    "description": "Gene TPMs for Brain - Cerebellar Hemisphere.",
+    "fileSize": 20383565,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz",
+    "order": 11,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_cerebellum.gct.gz",
+    "description": "Gene TPMs for Brain - Cerebellum.",
+    "fileSize": 22867834,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_cerebellum.gct.gz",
+    "order": 12,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_cortex.gct.gz",
+    "description": "Gene TPMs for Brain - Cortex.",
+    "fileSize": 23751330,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_cortex.gct.gz",
+    "order": 13,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz",
+    "description": "Gene TPMs for Brain - Frontal Cortex (BA9).",
+    "fileSize": 19580418,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz",
+    "order": 14,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_hippocampus.gct.gz",
+    "description": "Gene TPMs for Brain - Hippocampus.",
+    "fileSize": 18333876,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_hippocampus.gct.gz",
+    "order": 15,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_hypothalamus.gct.gz",
+    "description": "Gene TPMs for Brain - Hypothalamus.",
+    "fileSize": 19218833,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_hypothalamus.gct.gz",
+    "order": 16,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz",
+    "description": "Gene TPMs for Brain - Nucleus accumbens (basal ganglia).",
+    "fileSize": 22950968,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz",
+    "order": 17,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz",
+    "description": "Gene TPMs for Brain - Putamen (basal ganglia).",
+    "fileSize": 18731020,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz",
+    "order": 18,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_spinal_cord_cervical_c-1.gct.gz",
+    "description": "Gene TPMs for Brain - Spinal cord (cervical c-1).",
+    "fileSize": 14989112,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_spinal_cord_cervical_c-1.gct.gz",
+    "order": 19,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_brain_substantia_nigra.gct.gz",
+    "description": "Gene TPMs for Brain - Substantia nigra.",
+    "fileSize": 13021200,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_substantia_nigra.gct.gz",
+    "order": 20,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_breast_mammary_tissue.gct.gz",
+    "description": "Gene TPMs for Breast - Mammary Tissue.",
+    "fileSize": 42297786,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_breast_mammary_tissue.gct.gz",
+    "order": 21,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_cells_cultured_fibroblasts.gct.gz",
+    "description": "Gene TPMs for Cells - Cultured fibroblasts.",
+    "fileSize": 41049168,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_cells_cultured_fibroblasts.gct.gz",
+    "order": 22,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_cells_ebv-transformed_lymphocytes.gct.gz",
+    "description": "Gene TPMs for Cells - EBV-transformed lymphocytes.",
+    "fileSize": 15770409,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_cells_ebv-transformed_lymphocytes.gct.gz",
+    "order": 23,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_colon_sigmoid.gct.gz",
+    "description": "Gene TPMs for Colon - Sigmoid.",
+    "fileSize": 33323889,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_colon_sigmoid.gct.gz",
+    "order": 26,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_colon_transverse.gct.gz",
+    "description": "Gene TPMs for Colon - Transverse.",
+    "fileSize": 37257690,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_colon_transverse.gct.gz",
+    "order": 27,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_esophagus_gastroesophageal_junction.gct.gz",
+    "description": "Gene TPMs for Esophagus - Gastroesophageal Junction.",
+    "fileSize": 33238959,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_esophagus_gastroesophageal_junction.gct.gz",
+    "order": 28,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_esophagus_mucosa.gct.gz",
+    "description": "Gene TPMs for Esophagus - Mucosa.",
+    "fileSize": 48131356,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_esophagus_mucosa.gct.gz",
+    "order": 29,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_esophagus_muscularis.gct.gz",
+    "description": "Gene TPMs for Esophagus - Muscularis.",
+    "fileSize": 44502342,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_esophagus_muscularis.gct.gz",
+    "order": 30,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_heart_atrial_appendage.gct.gz",
+    "description": "Gene TPMs for Heart - Atrial Appendage.",
+    "fileSize": 36880336,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_heart_atrial_appendage.gct.gz",
+    "order": 32,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_heart_left_ventricle.gct.gz",
+    "description": "Gene TPMs for Heart - Left Ventricle.",
+    "fileSize": 35216007,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_heart_left_ventricle.gct.gz",
+    "order": 33,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_kidney_cortex.gct.gz",
+    "description": "Gene TPMs for Kidney - Cortex.",
+    "fileSize": 8611517,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_kidney_cortex.gct.gz",
+    "order": 34,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_liver.gct.gz",
+    "description": "Gene TPMs for Liver.",
+    "fileSize": 19475291,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_liver.gct.gz",
+    "order": 36,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_lung.gct.gz",
+    "description": "Gene TPMs for Lung.",
+    "fileSize": 53277131,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_lung.gct.gz",
+    "order": 37,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_minor_salivary_gland.gct.gz",
+    "description": "Gene TPMs for Minor Salivary Gland.",
+    "fileSize": 15874746,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_minor_salivary_gland.gct.gz",
+    "order": 38,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_muscle_skeletal.gct.gz",
+    "description": "Gene TPMs for Muscle - Skeletal.",
+    "fileSize": 62766093,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_muscle_skeletal.gct.gz",
+    "order": 39,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_nerve_tibial.gct.gz",
+    "description": "Gene TPMs for Nerve - Tibial.",
+    "fileSize": 56197781,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_nerve_tibial.gct.gz",
+    "order": 40,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_ovary.gct.gz",
+    "description": "Gene TPMs for Ovary.",
+    "fileSize": 17375839,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_ovary.gct.gz",
+    "order": 41,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_pancreas.gct.gz",
+    "description": "Gene TPMs for Pancreas.",
+    "fileSize": 27917435,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_pancreas.gct.gz",
+    "order": 42,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_pituitary.gct.gz",
+    "description": "Gene TPMs for Pituitary.",
+    "fileSize": 27549709,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_pituitary.gct.gz",
+    "order": 43,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_prostate.gct.gz",
+    "description": "Gene TPMs for Prostate.",
+    "fileSize": 23801214,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_prostate.gct.gz",
+    "order": 44,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_skin_not_sun_exposed_suprapubic.gct.gz",
+    "description": "Gene TPMs for Skin - Not Sun Exposed (Suprapubic).",
+    "fileSize": 54281723,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_skin_not_sun_exposed_suprapubic.gct.gz",
+    "order": 45,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_skin_sun_exposed_lower_leg.gct.gz",
+    "description": "Gene TPMs for Skin - Sun Exposed (Lower leg).",
+    "fileSize": 62467953,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_skin_sun_exposed_lower_leg.gct.gz",
+    "order": 46,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_small_intestine_terminal_ileum.gct.gz",
+    "description": "Gene TPMs for Small Intestine - Terminal Ileum.",
+    "fileSize": 18348088,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_small_intestine_terminal_ileum.gct.gz",
+    "order": 47,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_spleen.gct.gz",
+    "description": "Gene TPMs for Spleen.",
+    "fileSize": 22764144,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_spleen.gct.gz",
+    "order": 48,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_stomach.gct.gz",
+    "description": "Gene TPMs for Stomach.",
+    "fileSize": 32079018,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_stomach.gct.gz",
+    "order": 49,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_testis.gct.gz",
+    "description": "Gene TPMs for Testis.",
+    "fileSize": 42054546,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_testis.gct.gz",
+    "order": 50,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_thyroid.gct.gz",
+    "description": "Gene TPMs for Thyroid.",
+    "fileSize": 59503979,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_thyroid.gct.gz",
+    "order": 51,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_uterus.gct.gz",
+    "description": "Gene TPMs for Uterus.",
+    "fileSize": 13861207,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_uterus.gct.gz",
+    "order": 52,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_vagina.gct.gz",
+    "description": "Gene TPMs for Vagina.",
+    "fileSize": 15374507,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_vagina.gct.gz",
+    "order": 53,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  },
+  {
+    "displayName": "gene_tpm_2017-06-05_v8_whole_blood.gct.gz",
+    "description": "Gene TPMs for Whole Blood.",
+    "fileSize": 57432515,
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_whole_blood.gct.gz",
+    "order": 54,
+    "parent": "gs://adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/"
+  }
+]
