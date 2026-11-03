@@ -1,0 +1,8 @@
+{
+  "functions.R": "3c1a6dc7d3337ec85ef162dc07fe9361239f2b809a606c5132a94254a1c4f74d",
+  "trader_bridge.R": "956d7b3c94d0c359e71615b0bb6977b6b375e008d4a3c701280308bea9607ed1",
+  "trader_core.R": "828e45b659697fa859fe99c75d03d59b047613f8a8887e01898c68593aedd5e9",
+  "TRADER_utils_v6.cpp": "d11a4a3b6d73e33cae30d1e99794f29631922971a896e265a5c13fb5b82dd739",
+  "trace_huber_alpha.R": "221258f46dc4b6ede3287fa7115a88a1b8df181c9eb46a61a2e37dd4d0903e9d",
+  "trace_target_initialization.R": "68fb79165c9bf32d44faaccf56bdcea65033918ede82f133e8f6797c7dec04b6"
+}

@@ -1,0 +1,27 @@
+{
+  "source_package": "TRACE_real_data_with_CONCERT_server",
+  "source_results": "results_50rep",
+  "original_signature": "a8976f68dd6aa78d75dfb22787dae640",
+  "targets": 6,
+  "replications_per_target": 50,
+  "baseline_rows": 1200,
+  "retained_methods": [
+    "ACVB",
+    "TRADER",
+    "Trans-Lasso",
+    "CONCERT"
+  ],
+  "recomputed_methods": [
+    "TRACE-EM"
+  ],
+  "rho_z": 0.15,
+  "rho_c": 0.3,
+  "input_reuse": [
+    "donor split",
+    "feature order",
+    "target scaling",
+    "source B",
+    "precision calibration"
+  ],
+  "no_old_TRACE_rows": true
+}

@@ -1,0 +1,16 @@
+{
+  "name": "TRACE_source",
+  "prepared": "2026-11-03",
+  "reference_package": "simulation_and_real_data_analysis",
+  "reference_package_assembled": "2026-10-28",
+  "original_computational_source_files": 144,
+  "new_runtime_scripts": [
+    "scripts/restore_release_data.R",
+    "scripts/test_restore_release_data.R"
+  ],
+  "includes_raw_data": false,
+  "includes_saved_results": false,
+  "includes_compiled_binaries": false,
+  "original_code_license": "not specified",
+  "verification": "VALIDATION.md"
+}

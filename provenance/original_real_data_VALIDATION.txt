@@ -1,0 +1,12 @@
+Validation performed on 2026-10-27.
+
+- Original kernel failed 13 of 24 direct reduced-matrix tests; corrected kernel passed 24/24.
+- Six tissue/split reconstructions checked, including original data fingerprint and corrupted-observation rejection.
+- All 300 original split caches and all 1200 comparator metric rows exactly preserved; predictions, gene results and CONCERT transfer records also match original R objects.
+- Original manifest configuration loaded directly from saved RDS without numeric text rounding.
+- Six real-tissue TRACE refits (one per tissue), original target-only initialization, original refit CV seed, comparator pairing and unchanged baseline values checked.
+- Resume and incorrect-checkpoint guards checked.
+- CSV, TeX, PDF and PNG generation checked.
+- R syntax and shell syntax checked; no workstation-specific execution paths.
+
+Full 300-replication jobs are not precomputed in this ZIP. Run run_48cores.sh on the server.

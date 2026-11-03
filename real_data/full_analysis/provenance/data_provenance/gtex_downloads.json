@@ -1,0 +1,443 @@
+[
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_adipose_subcutaneous.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_adipose_subcutaneous.gct.gz",
+    "bytes": 57940492,
+    "sha256": "3125637ffcfafffc1bc3456abb663b9a5a52ea68c4eab33ccafc66f191098c88",
+    "md5": "9b8873ce0e9bfa2a27b0b60999b5acb9",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:02Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_adipose_visceral_omentum.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_adipose_visceral_omentum.gct.gz",
+    "bytes": 48089415,
+    "sha256": "683092f137fec8c0d29de8ceb9ba9977427f123d6637f700cf819d22b2f1d33a",
+    "md5": "674d9ae6c45c1ccdec2fc70e3ad59a7c",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:03Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_adrenal_gland.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_adrenal_gland.gct.gz",
+    "bytes": 23137355,
+    "sha256": "8aae274f22e349f7a18be5c8b244534965c900a41345527b719092f93451736e",
+    "md5": "28e776ba5fae126aaf00a886cfafabfd",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:56:59Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_artery_aorta.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_artery_aorta.gct.gz",
+    "bytes": 37853770,
+    "sha256": "63916fd3f705bb4b9b4a02f1f810575781c13b4c8ee5ac405de1f51ae22ef619",
+    "md5": "2ffcce87d89a1317fc11d074134ba907",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:00Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_artery_coronary.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_artery_coronary.gct.gz",
+    "bytes": 22192850,
+    "sha256": "7cd7341c9c069393f042411cc968a057149e7ec64fd5deaa4301a70e979a232f",
+    "md5": "2d94f33f66eb9030371956cce981bcf1",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:03Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_artery_tibial.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_artery_tibial.gct.gz",
+    "bytes": 55555731,
+    "sha256": "a099062d97b464f1c250445a6e611eab171a34ed98609db159dc05b4c5238749",
+    "md5": "3d53df1fb67d438523cf37b5b2070ed5",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:06Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_amygdala.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_amygdala.gct.gz",
+    "bytes": 14187198,
+    "sha256": "bf4520d67ddfec591dca4c6ae1802b463d423943a8e5066379b839e73266d834",
+    "md5": "7cd1e2a1dfe2f5491ae14e69cd0491ed",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:06Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_anterior_cingulate_cortex_ba24.gct.gz",
+    "bytes": 16527324,
+    "sha256": "bcb07c4437d4e7b11418e4ab43a546cbf409083c345f6571b337b6e4ac19c38e",
+    "md5": "1f332e8c38e6898736cc51e11d5ffc36",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:07Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_caudate_basal_ganglia.gct.gz",
+    "bytes": 22819513,
+    "sha256": "279a1fcf5d418f9c7c5e9d0a280ccfbd9ae4d556e8b5b067fc9cbd86f54535f0",
+    "md5": "dae27288fbd98e619cd5cdd5c7eaf808",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:07Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_cerebellar_hemisphere.gct.gz",
+    "bytes": 20383565,
+    "sha256": "48256c02b878836cefa8bf06e044c40a2526e850e71d5d9fefe724e8dc6046cc",
+    "md5": "bf4a925459a6bdfba0c71deed8b31911",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:09Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_cerebellum.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_cerebellum.gct.gz",
+    "bytes": 22867834,
+    "sha256": "f95a29e0eafe9c4373dfca7dc787155277729aae59291f146309c96d7558a906",
+    "md5": "c15d40ec64877d7fcd2a792ea7b35c90",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:10Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_cortex.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_cortex.gct.gz",
+    "bytes": 23751330,
+    "sha256": "7cc4ec1081c625f592f84e5bee9452f6273f12fab8db20b51d8b34e4a0f0741f",
+    "md5": "55e219d2e7d49785cb006b647f7159b4",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:14Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_frontal_cortex_ba9.gct.gz",
+    "bytes": 19580418,
+    "sha256": "ea7ef422901e40ccc3b27467a063b4340a56a530b57afd918d53cff98c36810b",
+    "md5": "32f60831affb5e9f0c4501d5a19a2e82",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:11Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_hippocampus.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_hippocampus.gct.gz",
+    "bytes": 18333876,
+    "sha256": "0f99ed3916b5845e17c8ca3e91ff038f26ec3235ece872684e773c23d33b4d3d",
+    "md5": "c456325a16974454e88e2978387b9098",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:13Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_hypothalamus.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_hypothalamus.gct.gz",
+    "bytes": 19218833,
+    "sha256": "fe240081166a4ec68009d007b963dede1247e543be2d0f8a640774c52191e801",
+    "md5": "2246db1521bfbcff596d06df1a7ba99c",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:13Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_nucleus_accumbens_basal_ganglia.gct.gz",
+    "bytes": 22950968,
+    "sha256": "bc228203beeb0196d496e2fab3cafdd97e582a8340aa167d055b89c7285efa8f",
+    "md5": "9ba7b86a58eaf6ab8d1fb15e210adeec",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:18Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_putamen_basal_ganglia.gct.gz",
+    "bytes": 18731020,
+    "sha256": "8c4369147d1fc0187ca68dc02f998b5cb065dbd579dd6c488f2b06ca29941563",
+    "md5": "25e86ffacbf244723c13d05259bcc1b6",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:16Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_spinal_cord_cervical_c-1.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_spinal_cord_cervical_c-1.gct.gz",
+    "bytes": 14989112,
+    "sha256": "03ed6309390c8bd2f351df1b21bdedb36f4c42529a7a10e650068dece40033d8",
+    "md5": "d9b40b9c64ed578a164c0e26d916554c",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:17Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_brain_substantia_nigra.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_brain_substantia_nigra.gct.gz",
+    "bytes": 13021200,
+    "sha256": "1a4a46344a1f2503f878b585d6f96bd1851bbe9588bf320b4ac797f50d7acbfd",
+    "md5": "c598568a04400be6ed78498c67a46196",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:18Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_breast_mammary_tissue.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_breast_mammary_tissue.gct.gz",
+    "bytes": 42297786,
+    "sha256": "fb1a382c7dc60d866eb271fb474730ffd11f152e890c26c7bc12e884d29ee293",
+    "md5": "43b5f11dc62eacfd2234fd48c5383a11",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:22Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_cells_cultured_fibroblasts.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_cells_cultured_fibroblasts.gct.gz",
+    "bytes": 41049168,
+    "sha256": "b50cbbaf50b0fbb1d0f8063e42f0a5e9505f80edacf095d4812f92a4ad904b92",
+    "md5": "ad4ab966f38cc4fba930652807b89db7",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:22Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_cells_ebv-transformed_lymphocytes.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_cells_ebv-transformed_lymphocytes.gct.gz",
+    "bytes": 15770409,
+    "sha256": "9cd1e4042be906fe801dceb6c6cf50d079eef9ad001a69238b1e914fafcb8bb2",
+    "md5": "d9b746c29403de54014fda88f06cc647",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:26Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_colon_sigmoid.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_colon_sigmoid.gct.gz",
+    "bytes": 33323889,
+    "sha256": "6db03cbab40af54a21f7d94e91937a43b828744f4734131271f14fddf6487c77",
+    "md5": "127bfadadf239a7288db50b4ab56897c",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:31Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_colon_transverse.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_colon_transverse.gct.gz",
+    "bytes": 37257690,
+    "sha256": "197014821850b7bf3e92354741e612c004d1ccb99702c6829575a83cc40c94f2",
+    "md5": "11c4889d835b4aa6be58c6618dd586ec",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:26Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_esophagus_gastroesophageal_junction.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_esophagus_gastroesophageal_junction.gct.gz",
+    "bytes": 33238959,
+    "sha256": "857f91a63600c45ca47c04ad1e8a4dde3044eb364b591dd6980e4e8b4e202f3e",
+    "md5": "9bcf970c1351b6dbcd74dc7fa97ee6c8",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:27Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_esophagus_mucosa.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_esophagus_mucosa.gct.gz",
+    "bytes": 48131356,
+    "sha256": "a7edb105b7ae0cac9e1c44a7a98945639b51d7a5e90a41abe3eab9c35f6131b0",
+    "md5": "4f88382d0872636471908062cead441a",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:30Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_esophagus_muscularis.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_esophagus_muscularis.gct.gz",
+    "bytes": 44502342,
+    "sha256": "ce24c9d8a2c31fd418dd85a8f78f2c65e16e37013ee69a9f7c358c4f01e31d3b",
+    "md5": "87015167b6acad83967d94ffcc87919b",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:32Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_heart_atrial_appendage.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_heart_atrial_appendage.gct.gz",
+    "bytes": 36880336,
+    "sha256": "70084fd8afb2d9207bc54d18938e66932078ce6e2faaf943ba04b84e4d9bb08d",
+    "md5": "679756f46e4f65ec17180d4938957e3e",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:34Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_heart_left_ventricle.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_heart_left_ventricle.gct.gz",
+    "bytes": 35216007,
+    "sha256": "3295d747ebcf8abcebeacc65773345837c0469d74fa6063f3c74b83e2e8318b5",
+    "md5": "d5b58661a615904560969fecc283be29",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:35Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_kidney_cortex.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_kidney_cortex.gct.gz",
+    "bytes": 8611517,
+    "sha256": "e2c9b0fb8fc7272dc96cf0b0c7c2f88a8bfa260feb8ffa556989a5b46059c7ef",
+    "md5": "851bd8781611725deb505477bcceb552",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:35Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_liver.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_liver.gct.gz",
+    "bytes": 19475291,
+    "sha256": "ab29258cb8e6e84752dfb2e56d400a7d2865f6f17d80af74a42c31302de46076",
+    "md5": "705e33993923437f33dd83e55858ba2b",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:57:52Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_lung.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_lung.gct.gz",
+    "bytes": 53277131,
+    "sha256": "1e09eb07a93fc4d03ed523f94ec22928e62fd5267e3fc58dabd02cb98556cfbf",
+    "md5": "492c4c7d757f6e39097fea9ef8d88107",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:58:57Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_minor_salivary_gland.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_minor_salivary_gland.gct.gz",
+    "bytes": 15874746,
+    "sha256": "086d0d65487eecbd509993d7cff64d437449b97ffbbd514bc20f17b1e799d7ca",
+    "md5": "9dea1b2ed240a9ed64796c0f6a3c725e",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:58:00Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_muscle_skeletal.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_muscle_skeletal.gct.gz",
+    "bytes": 62766093,
+    "sha256": "1f1990b4586626f97767aefbcff2878088fcff4c55c5f41b409b566a877dd999",
+    "md5": "7c814ba5662e189f6ed5a05c5a3ff73c",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:59:11Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_nerve_tibial.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_nerve_tibial.gct.gz",
+    "bytes": 56197781,
+    "sha256": "7f51c870426ddc19edd80ee723f984d113a8027751716c062884870fda3bb800",
+    "md5": "50aa3396832b3331f8d2ab888c585636",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:59:19Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_ovary.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_ovary.gct.gz",
+    "bytes": 17375839,
+    "sha256": "1f9370e066e5a9f53aec52298aed342f733a11285684ef4f75c64b613d595b71",
+    "md5": "4b56ece570c6c70d08c2c03fffc34cce",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:58:29Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_pancreas.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_pancreas.gct.gz",
+    "bytes": 27917435,
+    "sha256": "abd5b8ebe3816e0346520fc3f1115f1c0513f57f19921df0a3e1466694312d7a",
+    "md5": "a751c5b3b045a3d1a442805b4592640b",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:59:12Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_pituitary.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_pituitary.gct.gz",
+    "bytes": 27549709,
+    "sha256": "4796153df0fa3797b5694a45fb9d2785800bae7670de5acdaed59f32d2674afc",
+    "md5": "315d51934ec96a3cd92a0eb35233152f",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:59:40Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_prostate.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_prostate.gct.gz",
+    "bytes": 23801214,
+    "sha256": "fa146a3698d9e74e5b0ce336b689bd3ae78cc451a103a2e799ea5eaace5f7ffe",
+    "md5": "c69d056bfb9484190725828803f81f35",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T02:59:47Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_skin_not_sun_exposed_suprapubic.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_skin_not_sun_exposed_suprapubic.gct.gz",
+    "bytes": 54281723,
+    "sha256": "c91628429f78c7b68435cfa9baf07a6c96b12464d180d4068e6dd0291a6c1bf7",
+    "md5": "fca609aeb2e9738e82841b79b849439c",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:00:35Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_skin_sun_exposed_lower_leg.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_skin_sun_exposed_lower_leg.gct.gz",
+    "bytes": 62467953,
+    "sha256": "e7cfcf3b21b79f86b801b411ec741bbf449d9508d0bb05d234a4614e911937b2",
+    "md5": "f59e6d04a578b4dfd28f9c9f7f383cba",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:00:53Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_small_intestine_terminal_ileum.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_small_intestine_terminal_ileum.gct.gz",
+    "bytes": 18348088,
+    "sha256": "21b5b4ed659f108c925e393303817d44a19462a5bfa7d31aeb9089e849e5ac87",
+    "md5": "400516d217c9912f132fa84220753b12",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:00:08Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_spleen.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_spleen.gct.gz",
+    "bytes": 22764144,
+    "sha256": "4a21671ffcdc31dbbd94e3492017685f15f22a3b101bfd3c0e38afa3449c5705",
+    "md5": "80046c468b01612c69a0301a23b1613b",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:00:24Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_stomach.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_stomach.gct.gz",
+    "bytes": 32079018,
+    "sha256": "b45ea5a90886d025c6d301e8de3566e2150ad01439eeb59d344eafc2d2df3bc5",
+    "md5": "1c0b26cef79b050a0b9a8c1d90c499d3",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:00:57Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_testis.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_testis.gct.gz",
+    "bytes": 42054546,
+    "sha256": "1fa2ace5a4257ce282f4d373d23ea6911f5c14d4ff10c0714e6105997ccd86c5",
+    "md5": "7e15f9459ad095342778c7136a36cfa7",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:01:26Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_thyroid.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_thyroid.gct.gz",
+    "bytes": 59503979,
+    "sha256": "3059322f761f1a3677b694a04799c05d90b4ba409a03aaf1a11f07e68cfe7e04",
+    "md5": "84bd22e1575b3fe8ec945513c4d5d7e7",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:01:46Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_uterus.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_uterus.gct.gz",
+    "bytes": 13861207,
+    "sha256": "ff8ce4b9273a4137ef3822103adee132b0ae287ac42b9f3a377d1c2913baf95d",
+    "md5": "924354d214fdf0d0481305a34e13f5a1",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:01:15Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_vagina.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_vagina.gct.gz",
+    "bytes": 15374507,
+    "sha256": "e60dbe5abed879543d5b75b4216b16457fec24047c2efac9e38649c7df4d8963",
+    "md5": "01f8b8eb4415d0ad345ce39bae803dc4",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:01:22Z"
+  },
+  {
+    "url": "https://storage.googleapis.com/adult-gtex/bulk-gex/v8/rna-seq/tpms-by-tissue/gene_tpm_2017-06-05_v8_whole_blood.gct.gz",
+    "file": "data/raw/gtex/gene_tpm_2017-06-05_v8_whole_blood.gct.gz",
+    "bytes": 57432515,
+    "sha256": "a9403cf0cc12dfdff7bf28552d63b817d1e5cd042adfc402a20650e620e57309",
+    "md5": "bcecd35f92407a34c9fddd1a0f560c98",
+    "official_md5_verified": false,
+    "downloaded_utc": "2026-09-14T03:01:55Z"
+  }
+]

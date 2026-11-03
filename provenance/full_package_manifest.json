@@ -1,0 +1,19 @@
+{
+  "name": "simulation_and_real_data_analysis",
+  "assembled": "2026-10-28",
+  "simulation_cells": 137,
+  "simulation_replications_per_cell": 50,
+  "simulation_method_records": 41100,
+  "real_data_tissues": 6,
+  "real_data_splits_per_tissue": 50,
+  "real_data_method_records": 1500,
+  "payload_files_before_manifest_and_checksums": 118280,
+  "payload_bytes": 1999494251,
+  "reported_results": "included",
+  "all_formal_fits_rerun_during_assembly": false,
+  "entrypoints": [
+    "bash run_analysis.sh figures",
+    "bash run_analysis.sh validate",
+    "bash run_48cores.sh all"
+  ]
+}

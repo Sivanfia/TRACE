@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-28",
+  "simulation_root": "/Users/sivanfia/Desktop/Research_process/CVB/draft/simulation_and_real_data_application/TRACE_four_settings_T0_corrected_20261027/results_T0_corrected_trace",
+  "real_data_root": "/Users/sivanfia/Desktop/Research_process/CVB/draft/simulation_and_real_data_application/TRACE_real_data_T0_corrected_20261027/results_T0_corrected/comparison",
+  "replications_per_cell": 50,
+  "simulation_cells": {
+    "01": 48,
+    "02": 20,
+    "03": 48,
+    "04": 21
+  },
+  "source_observations_per_source": {
+    "01": 500,
+    "03": 500,
+    "04": 500
+  },
+  "main_slices": {
+    "01": {
+      "SNR": 4,
+      "s": [
+        10,
+        15,
+        30
+      ],
+      "rho": [
+        0.3,
+        0.6
+      ]
+    },
+    "03": {
+      "SNR": 3,
+      "s": [
+        10,
+        15,
+        30
+      ],
+      "rho": [
+        0.3,
+        0.6
+      ]
+    },
+    "04": {
+      "sigma": 3,
+      "rho": 0.3,
+      "q": [
+        0.0,
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6
+      ]
+    }
+  },
+  "retained_concert_III_source": "/Users/sivanfia/Desktop/Research_process/CVB/draft/simulation_and_real_data_application/TRACE_four_settings_with_CONCERT_server_v1/results_50rep_with_CONCERT/02_TRACE_support_swap_contamination_I_only_with_CONCERT/results_50rep_TRADER_paper_settings_III_with_CONCERT",
+  "concert_III_validation": "500 paired seeds; identical TRADER and Trans-Lasso TP/FP/FN/F1/precision/recall/prediction MSE, identical DGP and base seed",
+  "real_data_target_splits": 300,
+  "simulation_methods_refitted": [
+    "TRACE-EM",
+    "Oracle TRACE"
+  ],
+  "real_data_methods_refitted": [
+    "TRACE-EM"
+  ],
+  "setting04_main_figure": {
+    "source": "/Users/sivanfia/Desktop/Research_process/CVB/draft/simulation_and_real_data_application/TRACE_four_settings_T0_corrected_20261027/results_T0_corrected_trace/04_TRACE_complementary_sources_fixed_noise/comparison/paper_figures/setting04_main_f1.pdf",
+    "copied_without_redrawing": true,
+    "sha256": "d3b350f584f2c669712f1a4f2f23cf03f5a07fb9e9ffa03cef86deaf586b60cf"
+  },
+  "display_tissue_label": "Anterior cingulate cortex"
+}

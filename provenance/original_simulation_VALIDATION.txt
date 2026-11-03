@@ -1,0 +1,16 @@
+Release validation, 2026-10-27
+
+Default routing: TRACE-EM and Oracle TRACE only, all 4 settings.
+Optional original all-method routing: verified.
+Original grids: 48 / 20 / 48 / 21 cells; algorithm parameters and seeds checked against saved run manifests.
+Retained comparator records: 26,900; every original field checked against source rows; all method/cell groups have 50 replications.
+Packaged source summaries: 5,850, for Settings 1/3/4.
+Target-initialization references: 1,450 unique target seeds; source-weight-initialization references: 6,850 replications.
+T0 regression: 108 independent matrix-oracle checks across all 4 included function files, passed.
+R syntax: 71 source files parse; shell syntax verified.
+End-to-end validation: Settings 1, 3, 4, and Setting 2 designs I/III passed.
+Checked actual TRACE fits, cache reuse, initialization guard, resume, comparator merge, PDF and PNG output.
+Validation runs use temporary small inputs. Setting 2 routing validation uses oracle source summaries to limit test cost; production configuration remains the original spike-and-slab summaries.
+Compact figure layouts visually inspected using retained comparator data only; preview images are not part of this release.
+No production TRACE reruns or updated scientific conclusions are included.
+No old TRACE performance rows, validation figures, temporary logs, or compiled macOS binaries are included.

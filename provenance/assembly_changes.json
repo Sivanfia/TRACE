@@ -1,0 +1,11 @@
+{
+  "simulation/_common/start_setting.R": "Enable CONCERT for Design III in full runs; add a fresh-input route that fits all six methods without merging preserved baselines.",
+  "simulation/tests/test_mode.R": "Check the completed six-method Setting 2 route.",
+  "simulation/retained_results/02/performance_baseline.csv": "Add 500 verified CONCERT Design III records.",
+  "simulation/published_results/02_TRACE_support_swap_contamination/comparison": "Add Design III CONCERT and recompute the saved summaries.",
+  "real_data/R/paper_outputs.R": "Use the current display label Anterior cingulate cortex.",
+  "real_data/full_analysis": "Restore the full five-method runner with corrected TRACE kernels and the exact original configuration.",
+  "scripts and root entrypoints": "Portable reproduction, validation and submission documentation.",
+  "portable paths": "Decode Rscript --file spaces in entry points and plotting scripts; test reproduction after relocation to a path containing spaces.",
+  "published derived outputs": "Rebuild saved simulation plots after recovering CONCERT III; synchronize real-data presentation labels with the manuscript."
+}
